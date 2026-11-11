@@ -2,6 +2,9 @@
 # See https://docs.cocotb.org/en/stable/quickstart.html for more info
 
 # defaults
+
+PROJECT_SOURCES = project.v hvsync_generator.v
+
 SIM ?= icarus
 FST ?= -fst # Use more efficient FST format
 TOPLEVEL_LANG ?= verilog
