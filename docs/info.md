@@ -6,14 +6,13 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
+## HOW IT WORKS
+Esta es una referencia de linea para probar el VGA
+del TT en GTM 2026.
 
-## How it works
-
-Explain how your project works
-
-## How to test
-
-Explain how to use your project
+##HOW IT TEST
+En laboratorio ya teniendo el chip
+conectando los componentes necesarios
 
 ## External hardware
 
