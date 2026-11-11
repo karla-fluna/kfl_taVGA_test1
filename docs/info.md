@@ -10,7 +10,9 @@ You can also include images in this folder and reference them in the markdown. E
 Esta es una referencia de linea para probar el VGA
 del TT en GTM 2026.
 
-##HOW IT TEST
+
+
+## HOW IT TEST
 En laboratorio ya teniendo el chip
 conectando los componentes necesarios
 
